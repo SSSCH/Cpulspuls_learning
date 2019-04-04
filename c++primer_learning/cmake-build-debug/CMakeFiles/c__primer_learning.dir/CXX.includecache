@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/SCH/CLionProjects/c++primer_learning/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+list
+-
+iterator
+-
+numeric
+-
+
